@@ -16,6 +16,15 @@
         [
             "https://i.imgur.com/2t8zyPr.jpeg"
         ]
-    }
+    },
+     {
+        "id": 3,
+        "title": "4ta Ronda de Lectores",
+        "description": "Sabado 22 de junio a las 16hs. Lugar: 'Casa Museo Rosenda Quiroga'",
+        "image":
+        [
+            "https://i.imgur.com/C52shvM.jpeg"
+        ]
+    },
     
 ]
