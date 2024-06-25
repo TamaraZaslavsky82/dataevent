@@ -1,15 +1,7 @@
 [
+  
     {
         "id": 1,
-        "title": "3er Encuentro Nacional Senderismo",
-        "description": "¡Prepárate para explorar la naturaleza en su máximo esplendor! Del 20 al 23 de junio, te invitamos al 3er Encuentro Nacional de Senderismo en San Francisco del Monte de Oro, San Luis. ¡Una experiencia recreativa que no te puedes perder!Más información y reservas: clubdemontanasanfrancisco@gmail.com",
-        "image":
-        [
-            "https://i.imgur.com/QFlxry3.jpeg"
-        ]
-    },
-    {
-        "id": 2,
         "title": "Campeonato Provincial de MTB",
         "description": "29 Y 30 DE Junio - Coronacion del Campeonato Provincial de MTB - Regional Cuyano ¡ Vivi la Velocidad y destreza en dos ruedas !",
         "image":
@@ -17,33 +9,15 @@
             "https://i.imgur.com/2t8zyPr.jpeg"
         ]
     },
-     {
-        "id": 3,
-        "title": "4ta Ronda de Lectores",
-        "description": "Sabado 22 de junio a las 16hs. Lugar: Casa Museo Rosenda Quiroga",
-        "image":
-        [
-            "https://i.imgur.com/C52shvM.jpeg"
-        ]
     
-    },
-    {
-        "id":4,
-        "title": "Viva la Peña",
-        "description": "Sabado 22 de junio. - Ballets invitados - Musica en Vivo - Servicio de Cantina -Entrada Popular: $1000 - A las 20hs en el Polideportivo Municipal" ,
-        "image":
-        [
-            "https://i.imgur.com/g8StiLW.jpeg"
-        ]
-    
-    },
+  
         {
-        "id":5,
+        "id":2,
         "title": "El Show de Leo Funes Magia llega a San Francisco",
-        "description": "El multifacético artista @leofunesmagia se presenta con un gran show de magia, clown y mucho humor para toda la familia. Magia, clown, interacción con el publico, utilizacion de elementos en escena y muchas sorpresas más que haran explotar el teatro a pura magia y risas. 🗓Sábado 29 de Junio. Comienzo del espectaculo 20:30 hs. Apertura de sala 20:00 hs.Conseguí tu entrada a los telefonos habilitados:📱2664207384 (Lucas)📱2664564208 (Mónica)" ,
+        "description": "El multifacético artista @leofunesmagia se presenta con un gran show de magia, clown y mucho humor para toda la familia. Magia, clown, interacción con el publico, utilizacion de elementos en escena y muchas sorpresas más que haran explotar el teatro a pura magia y risas. 🗓Sábado 29 de Junio. Comienzo del espectaculo 20:30 hs. Apertura de sala 20:00 hs.Conseguí tu entrada a los telefonos habilitados:📱2664207374 (Lucas)📱2664564208 (Mónica)" ,
         "image":
         [
-            "https://i.imgur.com/mmqrSLq.jpeg"
+            "https://i.imgur.com/kPgaBLJ.jpeg"
         ]
     
     }
