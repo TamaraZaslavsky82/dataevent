@@ -30,6 +30,16 @@
             "https://i.imgur.com/ECgU4ED.jpeg"
         ]
     
+    },
+  {
+        "id":4,
+        "title": "Concierto Miniaturas Latinoamericanas",
+        "description": "Concierto Miniaturas Latinoamericanas. Prof. Lucas Apendino Entrada popular - Teatro San Francisco Sala Clara Chutun - Sábado 6 de julio 20:30 hs" ,
+        "image":
+        [
+            "https://i.imgur.com/bMgNuZf.jpeg"
+        ]
+    
     }
     
 ]
