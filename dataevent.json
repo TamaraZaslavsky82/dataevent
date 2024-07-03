@@ -1,28 +1,10 @@
 [
   
-    {
-        "id": 1,
-        "title": "Campeonato Provincial de MTB",
-        "description": "29 Y 30 DE Junio - Coronacion del Campeonato Provincial de MTB - Regional Cuyano ¡ Vivi la Velocidad y destreza en dos ruedas !",
-        "image":
-        [
-            "https://i.imgur.com/2t8zyPr.jpeg"
-        ]
-    },
-    
   
-        {
-        "id":2,
-        "title": "El Show de Leo Funes Magia llega a San Francisco",
-        "description": "El multifacético artista @leofunesmagia se presenta con un gran show de magia, clown y mucho humor para toda la familia.\nMagia, clown, interacción con el publico, utilizacion de elementos en escena y muchas sorpresas más que haran explotar el teatro a pura magia y risas.\n 🗓Sábado 29 de Junio. Comienzo del espectaculo 20:30 hs. Apertura de sala 20:00 hs.\nConseguí tu entrada a los telefonos habilitados:📱2664207374 (Lucas)📱2664564208 (Mónica)" ,
-        "image":
-        [
-            "https://i.imgur.com/kPgaBLJ.jpeg"
-        ]
-    
-    },
+  
+  
    {
-        "id":3,
+        "id":1,
         "title": "SAN FRANCISCO SERÁ SEDE DEL NEWCOM",
         "description": "Seguimos fomentando el deporte y la recreación en nuestra comunidad, creando espacios para que todos puedan participar y disfrutar.\nTe invitamos a disfrutar del torneo de Newcom en el Polideportivo Municipal y un fin de semana lleno de emoción y diversión en San Francisco del Monte de Oro!\n\nAdemás, habrá:\n🍴 Paseo Gastronómico - 🎨 Paseo Artesanal - 🎫 Acceso libre \n📅 Sábado 20 y Domingo 21 de Julio" ,
         "image":
@@ -32,7 +14,7 @@
     
     },
   {
-        "id":4,
+        "id":2,
         "title": "Concierto Miniaturas Latinoamericanas",
         "description": "Concierto Miniaturas Latinoamericanas. Prof. Lucas Apendino Entrada popular - Teatro San Francisco Sala Clara Chutun \nUna invitación a recorrer Latinoamérica desde sus interpretaciones en guitarra clásica en formato solista.\n En este concierto se ejecutan obras de algunos de los compositores más destacados de Latinoamérica, tales como Leo Brouwer de Cuba, Heitor Villa-Lobos de Brasil, Astor Piazzolla y Eduardo Falú, entre otros. - Sábado 6 de julio 20:30 hs" ,
         "image":
@@ -42,7 +24,7 @@
     
     },
    {
-        "id":5,
+        "id":3,
         "title": "FERIA DE COLECCIONISMO VINTAGE",
         "description": "Para exhibir, canjear, vender, comprar... ENTRADA LIBREY GRATUITA\nPara participar comunicarse con\nGustavo al 2664553284\nDOMINGO 30 JUNIO 14 Hs. en Cerveceria FRANZ\nSobre calle Lafinur y calle de Vialidad Provincial" ,
         "image":
@@ -50,6 +32,17 @@
             "https://i.imgur.com/7UmZeWX.jpeg"
         ]
     
-    }
+    },
+      {
+        "id":4,
+        "title": "SENDERISMO MEDITATIVO",
+        "description": "SENDERISMO MEDITATIVO\nConecta con la Naturaleza - Lunes 8 / Sabado 20\nSan Francisco del Monte de Oro\nReservas: 2664933528 / 3546400528\n\nEco Aventuras\nInspira Tu Yoga con Ceci Vera" ,
+        "image":
+        [
+            "https://i.imgur.com/NJs2aoM.jpeg"
+        ]
+    
+    },
+  
     
 ]
