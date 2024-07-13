@@ -23,16 +23,9 @@
             "https://i.imgur.com/MmsLPcl.jpeg"
         ]
     },
-     {
-        "id": 4,
-        "title": "MILONGA EL ZORZAL",
-        "description": "MILONGA EL ZORZAL EN EL CENTRO CULTURAL SAN FRANCISCO\nESTE VIERNES 12 DE JULIO A LAS 22:00HS.\nVALOR ENTRADA $2000¡LOS ESPERAMOS!",
-        "image": [
-            "https://i.imgur.com/Z8xpGxx.jpeg"
-        ]
-    },
+  
     {
-        "id": 5,
+        "id": 4,
         "title": "Encuentro de Productores y Emprendedores",
         "description": "Sabado 13 de Julio a partir de las 11:30hs\nEncuentro de Productores y Emprendedores .\nPuestos de artesanos - Musica en vivo - Ballet invitado - Opciones gastronomicas - Espacio para la niñez y mucho mas",
         "image": [
@@ -40,7 +33,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "EL CIELO NOS MIRA",
         "description": "13 de Julio - EL CIELO NOS MIRA -A cargo de Sofia Gabras(Fotografa) y Alejandra Negro (Antropologa).\nAstroturismo - Astrofotografia - Astronomia Cultural - Cosmovision - Al pie de la sierra\nHorario: Salimos 17hs de Plaza Pringles\nHacemos parada en El Desenerador para visualizar Los Morteros\ny partimos hacia el Pie de la Sierra\nVolvemos 21hs",
         "image": [
@@ -48,7 +41,7 @@
         ]
     },
      {
-        "id": 7,
+        "id": 6,
         "title": "Presentacion del libro - GENTE DEL PAGO - de Amado Dominguez",
         "description": "13 de Julio - 18hs \nEl reconociado tradicionalista de la localidad de San Martin \npresentara su libro -GENTE DE PAGO-\nJunto la presentacion de los librosHugo Ariel Vazquez y Ana Maria Zorzi -MUJER PUESTERA- y -OJOS DE ATUEL-\nEntrada libre y gratuita",
         "image": [
@@ -56,7 +49,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Muestra Tradicionalistaen el Centro Cultural San Francisco",
         "description": "13 de Julio - 18hs \nEntrada libre y gratuita",
         "image": [
@@ -64,15 +57,15 @@
         ]
     },
     {
-        "id": 9,
-        "title": "Cine movil en San Francisco",
+        "id": 8,
+        "title": "Cine en la Casa de la Cultura - Cine Teatro de San Francisco",
         "description": "17 de Julio - 16hs \nProyeccion de la pelicula - FERDINAND -\nEntrada libre y gratuita",
         "image": [
-            "https://i.imgur.com/X0sWs1O.jpeg"
+            "https://i.imgur.com/XVuQ3YE.jpeg"
         ]
     },
       {
-        "id": 10,
+        "id": 9,
         "title": "LA CAUTANA EN VIVO -en San Francisco",
         "description": "19 de Julio - 21hs \nLa exitosa y prestigiosa banda puntana, se presentara en vivo en la sala -Clara Chutun-\nEntrada libre y gratuita",
         "image": [
@@ -80,7 +73,7 @@
         ]
     }, 
     {
-        "id": 11,
+        "id": 10,
         "title": "SAN FRANCISCO SERÁ SEDE DEL NEWCOM",
         "description": "Seguimos fomentando el deporte y la recreación en nuestra comunidad, creando espacios para que todos puedan participar y disfrutar.\nTe invitamos a disfrutar del torneo de Newcom en el Polideportivo Municipal y un fin de semana lleno de emoción y diversión en San Francisco del Monte de Oro!\n\nAdemás, habrá:\n🍴 Paseo Gastronómico - 🎨 Paseo Artesanal - 🎫 Acceso libre \n📅 Sábado 20 y Domingo 21 de Julio",
         "image": [
@@ -88,7 +81,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "🎪Akitu Circo llega con todo su humor al Teatro San Francisco",
         "description": "🎉Festejamos el día del amigo a puro humor, música, pantomima y mucha diversión con el artista de Cordobes que se presenta por primera vez en San Francisco.\n👨‍👩‍👦‍👦Un espectaculo para toda la familia que incluye música en vivo, acrobacias, equilibrio, monociclo y malabares para disfrutar en vacaciones de invierno.\n\n🕣Comienzo del espectaculo 20:00 hs.🚪Apertura de sala 19:30 hs.\n📱2664207374 (Lucas) - 📱2664564208 (Mónica) ",
         "image": [
