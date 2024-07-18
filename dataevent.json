@@ -46,5 +46,13 @@
         "image": [
             "https://i.imgur.com/LiP482a.jpeg"
         ]
+    },
+     {
+        "id": 7,
+        "title": "IMPORTANTE",
+        "description": "Secretaria de Estado , para personas con discapacidad",
+        "image": [
+            "https://i.imgur.com/CicuPWO.jpeg"
+        ]
     }
 ]
