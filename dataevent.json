@@ -33,10 +33,18 @@
     }, 
      {
         "id": 5,
-        "title": "Feliz dia del Amigo",
-        "description": "19 de Julio  22hs - 20 de julio 22hs \nNo te pierdas el Viernes  Miguel Orozco y Sabado a Los SanFran en DESTINO BAR",
+        "title": "Encuentro de la Amistad",
+        "description": "20 de Julio  16hs  \nNo te pierdas el Viernes  Miguel Orozco y Sabado a Los SanFran en DESTINO BAR",
         "image": [
             "https://i.imgur.com/zSsW5zA.jpeg"
+        ]
+    }, 
+     {
+        "id": 5,
+        "title": "Feliz dia del Amigo",
+        "description": "19 de Julio  22hs - 20 de julio 22hs \nCentro de Jubilados y Pensionados San Francisco",
+        "image": [
+            "https://i.imgur.com/tbqqzH3.jpeg"
         ]
     }, 
     {
