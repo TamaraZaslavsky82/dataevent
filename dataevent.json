@@ -49,6 +49,14 @@
     }, 
     {
         "id": 7,
+        "title": "Encuentro de Productores y Emprendedores",
+        "description": "Sabado 20 de Julio a partir de las 11:30 en Plaza Pringles \nDJ en Vivo - Sorteos - Academia de Tango - Tacon y Punta - Zumba",
+        "image": [
+            "https://i.imgur.com/x4gBHUW.jpeg"
+        ]
+    }, 
+    {
+        "id": 8,
         "title": "SAN FRANCISCO SERÁ SEDE DEL NEWCOM",
         "description": "Seguimos fomentando el deporte y la recreación en nuestra comunidad, creando espacios para que todos puedan participar y disfrutar.\nTe invitamos a disfrutar del torneo de Newcom en el Polideportivo Municipal y un fin de semana lleno de emoción y diversión en San Francisco del Monte de Oro!\n\nAdemás, habrá:\n🍴 Paseo Gastronómico - 🎨 Paseo Artesanal - 🎫 Acceso libre \n📅 Sábado 20 y Domingo 21 de Julio",
         "image": [
@@ -56,7 +64,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "🎪Akitu Circo llega con todo su humor al Teatro San Francisco",
         "description": "🎉Festejamos el día del amigo a puro humor, música, pantomima y mucha diversión con el artista de Cordobes que se presenta por primera vez en San Francisco.\n👨‍👩‍👦‍👦Un espectaculo para toda la familia que incluye música en vivo, acrobacias, equilibrio, monociclo y malabares para disfrutar en vacaciones de invierno.\n\n🕣Comienzo del espectaculo 20:00 hs.🚪Apertura de sala 19:30 hs.\n📱2664207374 (Lucas) - 📱2664564208 (Mónica) ",
         "image": [
@@ -64,7 +72,7 @@
         ]
     },
      {
-        "id": 9,
+        "id": 10,
         "title": "IMPORTANTE",
         "description": "Secretaria de Estado , para personas con discapacidad",
         "image": [
