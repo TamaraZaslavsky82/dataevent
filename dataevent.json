@@ -1,26 +1,34 @@
 [
     {
         "id": 1,
-        "title": "FERIA DE EMPRENDEDORES",
-        "description": "Viernes 26 y Sabado 27 de Julio 11hs - en Plaza Pringles",
+        "title": "DESAFIO ASENUZA -2DA FECHA",
+        "description": "+500KM / 2 al 4 de Agosto -San Francisco del Monte de Oro",
         "image": [
-            "https://i.imgur.com/4c3pzND.jpeg"
+            "https://i.imgur.com/LhBYU79.jpeg"
         ]
     },
    {
         "id": 2,
-        "title": "Viernes 26 de Julio 20HS",
-        "description": "3re Fecha - Campeonato Provincial amateur - JOSE MARIA GATICA - Entrada libre y gratuita -POLIDEPORTIVO MUNICIPAL",
+        "title": "Piltrafa y Spirulina llega con circo, música y burbujas al Teatro San Francisco / Sabado 3 de Agosto",
+        "description": "Un show para toda la familia que incluye música en vivo, circo y burbujas gigantes para que todos disfruten una jornada a pura risa.",
         "image": [
-            "https://i.imgur.com/yhbyGYP.jpeg"
+            "https://i.imgur.com/1owS6kB.jpeg"
         ]
     },
      {
-        "id": 10,
-        "title": "IMPORTANTE",
-        "description": "Secretaria de Estado , para personas con discapacidad",
+        "id": 3,
+        "title": "FERIA DE COLECCIONISMO",
+        "description": "Domingo 4 de Agosto a partir de las 14hs- Feria de Coleccionismo  en CERVECERIA FRANZ",
         "image": [
-            "https://i.imgur.com/CicuPWO.jpeg"
+            "https://i.imgur.com/mwXQ4oD.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Viernes 4 de Agosto - CENA CRIOLLA - SHOW EN VIVO",
+        "description": "Escuela N 162 Domingo Faustino Sarmiento 21:30hs",
+        "image": [
+            "https://i.imgur.com/1hkS3m0.jpeg"
         ]
     }
 ]
