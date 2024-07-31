@@ -25,10 +25,42 @@
     },
     {
         "id": 4,
-        "title": "Viernes 4 de Agosto - CENA CRIOLLA - SHOW EN VIVO",
+        "title": "Viernes 2 de Agosto 19HS - SINGULAR ",
+        "description": "Teatro de Humor Absurdo -Entrada libre .Salida a la gorra! - Centro de Jubilados",
+        "image": [
+            "https://i.imgur.com/a3O4d53.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Viernes 2 de Agosto - CENA CRIOLLA - SHOW EN VIVO",
         "description": "Escuela N 162 Domingo Faustino Sarmiento 21:30hs",
         "image": [
             "https://i.imgur.com/1hkS3m0.jpeg"
+        ]
+    },
+     {
+        "id": 6,
+        "title": "Seminario Intensivo de IMPROVISACION TEATRAL",
+        "description": "Sabado 3 de Agosto 10:30hs - Ven y vive la magia del tratro escenico - Colectivo Cultural - Bnada Sur",
+        "image": [
+            "https://i.imgur.com/3Zs3LAJ.jpeg"
+        ]
+    },
+     {
+        "id": 7,
+        "title": "Seminario Intensivo de BURBUJAS",
+        "description": "Sabado 3 de Agosto 15:30hs - Para docentes y personas que trabajen con infancias - Colectivo Cultural - Banda Sur",
+        "image": [
+            "https://i.imgur.com/G93VXJX.jpeg"
+        ]
+    },
+      {
+        "id": 8,
+        "title": "Noche de Humor - ESPECTACULO A LA GORRA - Sabado 3 de Agosto 22:30hs",
+        "description": "TEATRO - IMPROVISACION - STAND UP ",
+        "image": [
+            "https://i.imgur.com/SplWHcH.jpeg"
         ]
     }
 ]
