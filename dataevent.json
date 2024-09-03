@@ -1,74 +1,19 @@
 [
     {
         "id": 1,
-        "title": "DESAFIO ASENUZA -2DA FECHA",
-        "description": "+500KM / 2 al 4 de Agosto -San Francisco del Monte de Oro",
+        "title": "¡NOCHE DE ROCK EN SAN FRANCISCO!",
+        "description": "6 DE SEPTIEMBRE 🕘 21:00HS. TEATRO SAN FRANCISCO Presentación en vivo de LA ZAPERA Y LA CHUTUNZÓNICA en el escenario de la sala Clara Chutún del Teatro San Francisco. Entrada valor $2000 en la boletería del teatro.",
         "image": [
-            "https://i.imgur.com/LhBYU79.jpeg"
+            "https://i.imgur.com/v9mDqQM.jpeg"
         ]
     },
-   {
+     {
         "id": 2,
-        "title": "Piltrafa y Spirulina llega con circo, música y burbujas al Teatro San Francisco / Sabado 3 de Agosto",
-        "description": "Un show para toda la familia que incluye música en vivo, circo y burbujas gigantes para que todos disfruten una jornada a pura risa.",
-        "image": [
-            "https://i.imgur.com/1owS6kB.jpeg"
-        ]
-    },
-     {
-        "id": 3,
-        "title": "FERIA DE COLECCIONISMO",
-        "description": "Domingo 4 de Agosto a partir de las 14hs- Feria de Coleccionismo  en CERVECERIA FRANZ",
-        "image": [
-            "https://i.imgur.com/mwXQ4oD.jpeg"
-        ]
-    },
-    {
-        "id": 4,
-        "title": "Viernes 2 de Agosto 19HS - SINGULAR ",
-        "description": "Teatro de Humor Absurdo -Entrada libre .Salida a la gorra! - Centro de Jubilados",
-        "image": [
-            "https://i.imgur.com/a3O4d53.jpeg"
-        ]
-    },
-    {
-        "id": 5,
-        "title": "Viernes 2 de Agosto - CENA CRIOLLA - SHOW EN VIVO",
-        "description": "Escuela N 162 Domingo Faustino Sarmiento 21:30hs",
-        "image": [
-            "https://i.imgur.com/1hkS3m0.jpeg"
-        ]
-    },
-     {
-        "id": 6,
-        "title": "Seminario Intensivo de IMPROVISACION TEATRAL",
-        "description": "Sabado 3 de Agosto 10:30hs - Ven y vive la magia del tratro escenico - Colectivo Cultural - Bnada Sur",
-        "image": [
-            "https://i.imgur.com/3Zs3LAJ.jpeg"
-        ]
-    },
-     {
-        "id": 7,
-        "title": "Seminario Intensivo de BURBUJAS",
-        "description": "Sabado 3 de Agosto 15:30hs - Para docentes y personas que trabajen con infancias - Colectivo Cultural - Banda Sur",
-        "image": [
-            "https://i.imgur.com/G93VXJX.jpeg"
-        ]
-    },
-      {
-        "id": 8,
-        "title": "Noche de Humor - ESPECTACULO A LA GORRA - Sabado 3 de Agosto 22:30hs",
-        "description": "TEATRO - IMPROVISACION - STAND UP ",
-        "image": [
-            "https://i.imgur.com/SplWHcH.jpeg"
-        ]
-    },
-     {
-        "id": 9,
-        "title": "Viernes 9 de Agosto - Milonga el Zorzal",
-        "description": "Viernes 9 de Agosto a las 22hs - Centro Cultura San Francisco",
-        "image": [
-            "https://i.imgur.com/CLD3y4q.jpeg"
+        "title": "1er ENCUENTRO DE TANGO TERAPIA",
+        "description": "28 Y 29 DE SEPTIEMBRE | CENTRO CULTURAL SAN FRANCISCOConsultar por más info y aranceles al tel: 2255 601 164",
+         "image": [
+            "https://i.imgur.com/frv2YbD.jpeg"
         ]
     }
+  
 ]
