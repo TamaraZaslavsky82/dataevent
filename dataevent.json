@@ -1,30 +1,8 @@
 [
-    {
-        "id": 1,
-        "title": "¡NOCHE DE ROCK EN SAN FRANCISCO!",
-        "description": "6 DE SEPTIEMBRE 🕘 21:00HS. TEATRO SAN FRANCISCO Presentación en vivo de LA ZAPERA Y LA CHUTUNZÓNICA en el escenario de la sala Clara Chutún del Teatro San Francisco. Entrada valor $2000 en la boletería del teatro.",
-        "image": [
-            "https://i.imgur.com/v9mDqQM.jpeg"
-        ]
-    },
-     {
-        "id": 2,
-        "title": "1er ENCUENTRO DE TANGO TERAPIA",
-        "description": "28 Y 29 DE SEPTIEMBRE | CENTRO CULTURAL SAN FRANCISCOConsultar por más info y aranceles al tel: 2255 601 164",
-         "image": [
-            "https://i.imgur.com/frv2YbD.jpeg"
-        ]
-    },
-    {
-        "id": 3,
-        "title": "👄MUÑECA BRAVA👄 EN EL TEATRO SAN FRANCISCO",
-        "description": "📆SÁBADO 7 de septiembre 🕘 21:00hs. TEATRO SAN FRANCISCO.Un espectáculo teatral unipersonal de la autora Delia Maunás, que indaga en las historias y en la humanidad de un personaje marginal de la sociedad.​Actúa/ FRANCIS LEGANT | Dirección/ DELIA MAUNÁS | Productora/ GABRIELA FERNANDEZ🎫 ENTRADAS ANTICIPADAS 👉​$ 3000🎫 ENTRADAS EN TAQUILLA $ 4000",
-         "image": [
-            "https://i.imgur.com/nuJ0P2q.jpeg"
-        ]
-    },
+   
+  
       {
-        "id": 4,
+        "id": 1,
         "title": "¡Este domingo te esperamos en la Corre Caminata 10K del Maestro! 🚶‍♂️",
         "description": "🏃‍♀️ Una actividad recreativa y gratuita para disfrutar en familia. Recorreremos 2 kilómetros por el hermoso muro lateral del Dique Las Palmeras. 🌄 🗓 Domingo 8/9 🕙 Horario: 9:00 horas 📍 Punto de encuentro: Dique Las Palmeras Si querés participar, accedé al formulario de inscripción a través del siguiente link: https://bit.ly/3TeVZt6 ¡Sumate y disfrutá de una mañana al aire libre! 🌿👟",
          "image": [
