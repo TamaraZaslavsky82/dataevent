@@ -1,15 +1,8 @@
-[
-   
-  
-   
-    
-  
-    {
-        "id": 1,
-        "title": "UN ÁRBOL TRAS OTRO DE MAIA NOÉ, EN EL TEATRO SAN FRANCISCO",
-        "description": "¡Se viene la Fiesta Provincial del Teatro San Luis 2024! - 📅 VIERNES 8 DE NOVIEMBRE  🕘22:00HS, TEATRO SAN FRANCISCO👉 ENTRADA A LA GORRABajo el lema “El Teatro Vale”, el Instituto Nacional del Teatro homenajea este año a Valeria Bruna, hacedora teatral imprescindible en la escena provincial, actriz talentosa y de inquietudes permanentes",
-        "image": [
-          "https://i.imgur.com/DRj0HGq.jpeg"
-        ]
-    }
-]
+{
+    "id": 1,
+    "title": "UN ÁRBOL TRAS OTRO DE MAIA NOÉ, EN EL TEATRO SAN FRANCISCO",
+    "description": "¡Se viene la Fiesta Provincial del Teatro San Luis 2024! -  VIERNES 8 DE NOVIEMBRE  22:00HS, TEATRO SAN FRANCISCO ENTRADA A LA GORRA Bajo el lema “El Teatro Vale”, el Instituto Nacional del Teatro homenajea este año a Valeria Bruna, hacedora teatral imprescindible en la escena provincial, actriz talentosa y de inquietudes permanentes",
+    "image": [
+        "https://i.imgur.com/DRj0HGq.jpeg"
+    ]
+}
