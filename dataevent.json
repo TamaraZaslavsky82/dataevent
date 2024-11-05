@@ -1,8 +1,42 @@
-{
-    "id": 1,
-    "title": "UN ÁRBOL TRAS OTRO DE MAIA NOÉ, EN EL TEATRO SAN FRANCISCO",
-    "description": "¡Se viene la Fiesta Provincial del Teatro San Luis 2024! -  VIERNES 8 DE NOVIEMBRE  22:00HS, TEATRO SAN FRANCISCO ENTRADA A LA GORRA Bajo el lema “El Teatro Vale”, el Instituto Nacional del Teatro homenajea este año a Valeria Bruna, hacedora teatral imprescindible en la escena provincial, actriz talentosa y de inquietudes permanentes",
-    "image": [
-        "https://i.imgur.com/DRj0HGq.jpeg"
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "SAN FRANCISCO SERÁ SEDE DEL NEWCOM",
+        "description": "Seguimos fomentando el deporte y la recreación en nuestra comunidad, creando espacios para que todos puedan participar y disfrutar.\nTe invitamos a disfrutar del torneo de Newcom en el Polideportivo Municipal y un fin de semana lleno de emoción y diversión en San Francisco del Monte de Oro!\n\nAdemás, habrá:\n🍴 Paseo Gastronómico - 🎨 Paseo Artesanal - 🎫 Acceso libre \n📅 Sábado 20 y Domingo 21 de Julio",
+        "image": [
+            "https://i.imgur.com/ECgU4ED.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "SENDERISMO MEDITATIVO",
+        "description": "SENDERISMO MEDITATIVO\nConecta con la Naturaleza - Lunes 8 / Sabado 20\nSan Francisco del Monte de Oro\nReservas: 2664933528 / 3546400528\n\nEco Aventuras\nInspira Tu Yoga con Ceci Vera",
+        "image": [
+            "https://i.imgur.com/NJs2aoM.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "EXPLORANDO NUESTRO LEGADO",
+        "description": "Viernes 12 de Julio\nPinturas Rupestres - Fotografia experimental con plantas nativas\nSalida 10:30 Senderismo en las Sierras\nSan Francisco del Monte de Oro\nINFO: 2664888422 / 1153138190\n\nAlejandra Negro \nSofia Gabras",
+        "image": [
+            "https://i.imgur.com/GPse1VF.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "MILONGA EL ZORZAL",
+        "description": "MILONGA EL ZORZAL EN EL CENTRO CULTURAL SAN FRANCISCO\nESTE VIERNES 12 DE JULIO A LAS 22:00HS.\nVALOR ENTRADA $2000¡LOS ESPERAMOS!",
+        "image": [
+            "https://i.imgur.com/Z8xpGxx.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "EL CIELO NOS MIRA",
+        "description": "13 de Julio - EL CIELO NOS MIRA -A cargo de Sofia Gabras(Fotografa) y Alejandra Negro (Antropologa).\nAstroturismo - Astrofotografia - Astronomia Cultural - Cosmovision - Al pie de la sierra\nHorario: Salimos 17hs de Plaza Pringles\nHacemos parada en El Desenerador para visualizar Los Morteros\ny partimos hacia el Pie de la Sierra\nVolvemos 21hs",
+        "image": [
+            "https://i.imgur.com/1b33BQJ.jpeg"
+        ]
+    }
+]
