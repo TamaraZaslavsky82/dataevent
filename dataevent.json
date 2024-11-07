@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "NOS CUIDAMOS ENTRE TODOS",
+        "description": "",
+        "image": [
+            "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY2M3VsaDEyYThkN3VqNmZqdnh6dzl6N3dkdm92a3dqMTZ1ZmJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSCnKmmXpmu8FRKq9k/giphy.gif"
+        ]
+    },
+     {
+        "id": 2,
         "title": "UN ÁRBOL TRAS OTRO DE MAIA NOÉ, EN EL TEATRO SAN FRANCISCO",
         "description": "Presentación de la obra de la compañía de danza de Maia Noé, en el marco de la Fiesta Provincial del Teatro San Luis 2024.📅 VIERNES 8 DE NOVIEMBRE  🕘22:00HS, TEATRO SAN FRANCISCO👉 ENTRADA A LA GORRA",
         "image": [
