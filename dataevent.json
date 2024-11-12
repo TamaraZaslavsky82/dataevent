@@ -7,32 +7,10 @@
             "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY2M3VsaDEyYThkN3VqNmZqdnh6dzl6N3dkdm92a3dqMTZ1ZmJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSCnKmmXpmu8FRKq9k/giphy.gif"
         ]
     },
-     {
-        "id": 2,
-        "title": "UN ÁRBOL TRAS OTRO DE MAIA NOÉ, EN EL TEATRO SAN FRANCISCO",
-        "description": "Presentación de la obra de la compañía de danza de Maia Noé, en el marco de la Fiesta Provincial del Teatro San Luis 2024.📅 VIERNES 8 DE NOVIEMBRE  🕘22:00HS, TEATRO SAN FRANCISCO👉 ENTRADA A LA GORRA",
-        "image": [
-            "https://i.imgur.com/DRj0HGq.jpeg"
-        ]
-    },
-     {
-        "id": 3,
-        "title": "AURELIA ASTUDILLO EN EL TEATRO SAN FRANCISCO - Presentando - MUJER DE RAÍCES/ CORAZÓN DE PUEBLO",
-        "description": "SÁBADO 9 DE NOVIEMBRE 🕘 21:30hs.TEATRO SAN FRANCISCO - 👉ENTRADA VALOR $4000 Artistas invitados. Nacho El Sembrador Cuyano junto al profesor Marcelo Vivas.Exposición y pintura en vivo a cargo de las artistas plásticas Silvia Escudero y Fernanda Caballero.Entrada valor $ 4000, a la venta en el Centro Cultural San Francisco.¡Los esperamos!",
-        "image": [
-            "https://i.imgur.com/8F5mFUV.jpeg"
-        ]
-    },
-      {
-        "id": 4,
-        "title": "4ta MARCHA DE MUSICA Y DANZA",
-        "description": " ",
-        "image": [
-            "https://i.imgur.com/GcCIybR.jpeg"
-        ]
-    },
+  
+   
     {
-        "id": 5,
+        "id": 2,
         "title": "16.11 Los Piripulos - SALA CLARA CHUTÚN presentan !!uH! Una comedia absurda",
         "description": " UNA OBRA PARA UN PÚBLiCO ADOLESCENTE Y ADULTO QUE DESPLiEGA DE MANERA  HiLARANTE UNA BÚSQUEDA HACiA LAS RAÍCES DEL iMPONDERABLE.  LA APARiENCiA ES iNCONEXA, PERO TODO ES APARENTE, MiENTRAS, DESDE EL  FONDO (LAS BUTACAS??), ALGUiEN MiRA Y SE RÍE DE NUESTRAS DESGRACiAS:  UH!!, ES EL EFECTO DE LA CAUSA. DiSTiNTAS ESCENAS SiN CONEXiÓN APARENTE SE  SUCEDEN PARA LUEGO COBRAR SENTiDO, DONDE EL HiLO CONDUCTOR ES UH!! ",
         "image": [
@@ -40,7 +18,7 @@
         ]
     },
      {
-        "id": 6,
+        "id": 3,
         "title": "17.11 VERONICA CONDOMI + MATIAS BETTI",
         "description": "  VERÓNiCA CONDOMÍ Y MATÍAS BETTi ALiMENTAN ESTE PROYECTO RECREANDO MÚSiCAS DE AUTORES ARGENTiNOS Y COMPOSiCiONES PROPiAS, ENGARZÁNDOLAS CON iNSTRUMENTOS DE DiFERENTES ORÍGENES. LA VOZ, EL STiCK, LA GUiTARRA, LA KALiMBA, LA CAJA Y EL BOMBO, FLUYEN A TRAVÉS DE CANCiONES QUE FUSiONAN LAS RAÍCES FOLCLÓRiCAS CON EL ROCK DE NUESTRO PAÍS, VERSiONANDO TEMAS DE SPiNETTA, YUPANQUi, CHARLY GARCÍA, DiViDiDOS, CERATi, GABO FERRO, ARiEL RAMiREZ Y FÉLiX LUNA, ENTRE OTROS ",
         "image": [
@@ -48,11 +26,19 @@
         ]
     },
       {
-        "id": 7,
+        "id": 4,
         "title": "22.11 DANIELA CALDERON",
         "description": "GUiTARRiSTA Y CANTORA NACiDA EN SAN LUiS, ARGENTiNA.COMENZÓ SU CARRERA A LOS 12 AÑOS DESTACANDOSEPOR UNA CARACTERÍSTiCA PARTiCULAR, QUE ES EL USO DE LA PÚA EN LA EJECUCiÓN DEL iNSTRUMENTO, LO QUE DEFiNE AL LLAMADO -ESTiLO CUYANO-.",
         "image": [
             "https://i.imgur.com/BKstfWn.jpeg"
+        ]
+    },
+    {
+        "id":5,
+        "title": "DOÑA JOVITA",
+        "description": "DOMINGO 15 DE DICIEMBRE 21:30HS-EN CONCIERTO QUITA PENAS - ACTUACION DE CARLOS SANCHEZ Y LOS PRIMOS - SALA CLARA CHUTUN TEATRO SAN FRANCISCO",
+        "image": [
+            "https://i.imgur.com/nzBDRzi.jpeg"
         ]
     }
 ]
