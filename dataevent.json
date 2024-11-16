@@ -33,12 +33,28 @@
             "https://i.imgur.com/BKstfWn.jpeg"
         ]
     },
-    {
+      {
         "id":5,
+        "title": "MUESTRA DE DANZA EN EL TEATRO SAN FRANCISCO",
+        "description": "📅SÁBADO 23 DE NOVIEMBRE 🕘17:00HS 🔰 TEATRO SAN FRANCISCO.Se presentarán distintas coreografías de los talleres de URBANO Y ZUMBA de los talleres del Centro Cultural San Francisco y de Luján de la profesora Milagros Segovia.Participarán como invitadas, la academia de tango -Tacón y Punta- (CCSF) y la academia de Danza Árabe -Wala Banzák- (CCSF).ENTRADA VALOR $1500¡LOS ESPERAMOS!",
+        "image": [
+            "https://i.imgur.com/Py7fB8h.jpeg"
+        ]
+    },
+     {
+        "id":6,
+        "title": "ROMEO Y JULIETA DE BOLSILLO EN EL TEATRO SAN FRANCISCO",
+        "description": "👉👉ENTRADA LIBRE Y GRATUITA.Desde el Centro Cultural San Francisco tenemos el orgullo de presentar esta coproducción entre el Ministerio de Turismo y Cultura y el prestigioso Teatro Nacional Cervantes.📜 Romeo y Julieta de Bolsillo, escrita por Emiliano Dionisi y dirigida por Hernesto Mussano.¿Cuántas veces se puede contar una historia? ¿De cuántas maneras?, Shakespeare nos cuenta la tragedia de Romeo y Julieta. Emiliano Dionisi se la pone en el bolsillo y el llanto se hace risa. Aquí en San Luis, los títeres se trepan por nuestros cuerpos y las manos se hacen signos para hablar, bailar, enamorar, pelear y unir. Un collage de humor, ternura y belleza.¡LOS ESPERAMOS!",
+        "image": [
+            "https://i.imgur.com/uz6Vcsz.jpeg"
+        ]
+    },
+    {
+        "id"7,
         "title": "DOÑA JOVITA",
         "description": "DOMINGO 15 DE DICIEMBRE 21:30HS-EN CONCIERTO QUITA PENAS - ACTUACION DE CARLOS SANCHEZ Y LOS PRIMOS - SALA CLARA CHUTUN TEATRO SAN FRANCISCO",
         "image": [
-            "https://i.imgur.com/nzBDRzi.jpeg"
+            "https://i.imgur.com/TErh0j7.jpeg"
         ]
     }
 ]
