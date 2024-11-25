@@ -7,50 +7,25 @@
             "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY2M3VsaDEyYThkN3VqNmZqdnh6dzl6N3dkdm92a3dqMTZ1ZmJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSCnKmmXpmu8FRKq9k/giphy.gif"
         ]
     },
-  
-   
-    {
-        "id": 2,
-        "title": "16.11 Los Piripulos - SALA CLARA CHUTÚN presentan !!uH! Una comedia absurda",
-        "description": " UNA OBRA PARA UN PÚBLiCO ADOLESCENTE Y ADULTO QUE DESPLiEGA DE MANERA  HiLARANTE UNA BÚSQUEDA HACiA LAS RAÍCES DEL iMPONDERABLE.  LA APARiENCiA ES iNCONEXA, PERO TODO ES APARENTE, MiENTRAS, DESDE EL  FONDO (LAS BUTACAS??), ALGUiEN MiRA Y SE RÍE DE NUESTRAS DESGRACiAS:  UH!!, ES EL EFECTO DE LA CAUSA. DiSTiNTAS ESCENAS SiN CONEXiÓN APARENTE SE  SUCEDEN PARA LUEGO COBRAR SENTiDO, DONDE EL HiLO CONDUCTOR ES UH!! ",
+        {
+        "id":2,
+        "title": "ASTROFOTOGRAFIA Sofia Yehie Gabras",
+        "description": "Una actividad para toda la familia - Salidas todos los Martes y Jueves- Fechas programadas a disposicion - Observacion del cielo- Cosmologia cultural- Fotografia profesional- Alquiler de equipos - Para mas informacion cel: 1553138192",
         "image": [
-            "https://i.imgur.com/OS7dhBW.jpeg"
+            "https://i.imgur.com/rc87816.jpeg"
         ]
     },
      {
-        "id": 3,
-        "title": "17.11 VERONICA CONDOMI + MATIAS BETTI",
-        "description": "  VERÓNiCA CONDOMÍ Y MATÍAS BETTi ALiMENTAN ESTE PROYECTO RECREANDO MÚSiCAS DE AUTORES ARGENTiNOS Y COMPOSiCiONES PROPiAS, ENGARZÁNDOLAS CON iNSTRUMENTOS DE DiFERENTES ORÍGENES. LA VOZ, EL STiCK, LA GUiTARRA, LA KALiMBA, LA CAJA Y EL BOMBO, FLUYEN A TRAVÉS DE CANCiONES QUE FUSiONAN LAS RAÍCES FOLCLÓRiCAS CON EL ROCK DE NUESTRO PAÍS, VERSiONANDO TEMAS DE SPiNETTA, YUPANQUi, CHARLY GARCÍA, DiViDiDOS, CERATi, GABO FERRO, ARiEL RAMiREZ Y FÉLiX LUNA, ENTRE OTROS ",
+        "id":3,
+        "title": "INTI TAKIRI",
+        "description": "DOMINGO 30 DE NOVIEMBRE- TEATRO SAN FRANSCICO 22HS- Inti Takari presentando su espectaculo 'SUEÑOS'. Con artistas invitados. Valor de la entrada $3000",
         "image": [
-            "https://i.imgur.com/C7M1qJB.jpeg"
+            "https://i.imgur.com/2sl3NW9.jpeg"
         ]
-    },
-      {
-        "id": 4,
-        "title": "22.11 DANIELA CALDERON",
-        "description": "GUiTARRiSTA Y CANTORA NACiDA EN SAN LUiS, ARGENTiNA.COMENZÓ SU CARRERA A LOS 12 AÑOS DESTACANDOSEPOR UNA CARACTERÍSTiCA PARTiCULAR, QUE ES EL USO DE LA PÚA EN LA EJECUCiÓN DEL iNSTRUMENTO, LO QUE DEFiNE AL LLAMADO -ESTiLO CUYANO-.",
-        "image": [
-            "https://i.imgur.com/BKstfWn.jpeg"
-        ]
-    },
-      {
-        "id":5,
-        "title": "MUESTRA DE DANZA EN EL TEATRO SAN FRANCISCO",
-        "description": "📅SÁBADO 23 DE NOVIEMBRE 🕘17:00HS 🔰 TEATRO SAN FRANCISCO.Se presentarán distintas coreografías de los talleres de URBANO Y ZUMBA de los talleres del Centro Cultural San Francisco y de Luján de la profesora Milagros Segovia.Participarán como invitadas, la academia de tango -Tacón y Punta- (CCSF) y la academia de Danza Árabe -Wala Banzák- (CCSF).ENTRADA VALOR $1500¡LOS ESPERAMOS!",
-        "image": [
-            "https://i.imgur.com/Py7fB8h.jpeg"
-        ]
-    },
-     {
-        "id":6,
-        "title": "ROMEO Y JULIETA DE BOLSILLO EN EL TEATRO SAN FRANCISCO",
-        "description": "👉👉ENTRADA LIBRE Y GRATUITA.Desde el Centro Cultural San Francisco tenemos el orgullo de presentar esta coproducción entre el Ministerio de Turismo y Cultura y el prestigioso Teatro Nacional Cervantes.📜 Romeo y Julieta de Bolsillo, escrita por Emiliano Dionisi y dirigida por Hernesto Mussano.¿Cuántas veces se puede contar una historia? ¿De cuántas maneras?, Shakespeare nos cuenta la tragedia de Romeo y Julieta. Emiliano Dionisi se la pone en el bolsillo y el llanto se hace risa. Aquí en San Luis, los títeres se trepan por nuestros cuerpos y las manos se hacen signos para hablar, bailar, enamorar, pelear y unir. Un collage de humor, ternura y belleza.¡LOS ESPERAMOS!",
-        "image": [
-            "https://i.imgur.com/uz6Vcsz.jpeg"
-        ]
-    },
+    }, 
+
     {
-        "id":7,
+        "id":4,
         "title": "DOÑA JOVITA",
         "description": "DOMINGO 15 DE DICIEMBRE 21:30HS-EN CONCIERTO QUITA PENAS - ACTUACION DE CARLOS SANCHEZ Y LOS PRIMOS - SALA CLARA CHUTUN TEATRO SAN FRANCISCO",
         "image": [
