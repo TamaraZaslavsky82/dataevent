@@ -17,15 +17,39 @@
     },
      {
         "id":3,
+        "title": "EXHIBICION DE FIN DE AÑO",
+        "description": "Sabado 30 de Noviembre 20hs - Exhibicion de Fin de Año PATIN ARTISTICO - CIRCULO SANLUISEÑO - Polideportivo Municipal San Francisco del Monte de Oro -Anticipadas $1500 - Menores de 7 años no abonan entrada",
+        "image": [
+            "https://i.imgur.com/M1Yrwmi.jpeg"
+        ]
+    }, 
+    {
+        "id":4,
         "title": "INTI TAKIRI",
-        "description": "DOMINGO 30 DE NOVIEMBRE- TEATRO SAN FRANSCICO 22HS- Inti Takari presentando su espectaculo 'SUEÑOS'. Con artistas invitados. Valor de la entrada $3000",
+        "description": "SABADO 30 DE NOVIEMBRE- TEATRO SAN FRANSCICO 22HS- Inti Takari presentando su espectaculo 'SUEÑOS'. Con artistas invitados. Valor de la entrada $3000",
         "image": [
             "https://i.imgur.com/2sl3NW9.jpeg"
         ]
     }, 
+     {
+        "id":5,
+        "title": "GALA GAUCHA EN EL TEATRO SAN FRANCISCO",
+        "description": "📅 VIERNES 6 DE DICIEMBRE 🕘 21:30HS. 🔰 TEATRO SAN FRANCISCO - VALOR ENTRADA $3000 -En el Día Nacional del Gaucho el Centro Cultural San Francisco se viste de gala en una noche para celebrar nuestra tradición gaucha con ballets folklóricos y artistas en vivo. Con la presentación en vivo de Pablo Bustos.",
+        "image": [
+            "https://i.imgur.com/ZCVEUOS.jpeg"
+        ]
+    },
+     {
+        "id":6,
+        "title": "AGUS CAVIA",
+        "description": "SÁBADO 7 DE DICIEMBRE  🕗 21:30HS.  🔰 TEATRO SAN FRANCISCO 👉VALOR ENTRADA $5000  ó 2x $8000.Un espectáculo que demuestra el camino recorrido y los lazos generados en estos años. Un encuentro único que reúne música y danza. . Canciones de autoría, piezas que me han marcado e interpretaciones de artistas locales harán de esta noche una verdadera fusión de raíces folclóricas, flamenco y blues. El hermoso fruto de años de trabajo, colaboración, amor por el arte y la alegría de compartirnos.Con mas de 15 artistas en escena, presentamos AGUS CAVIA, espectáculo en banda.",
+        "image": [
+            "https://i.imgur.com/qfgkCQG.jpeg"
+        ]
+    },
 
     {
-        "id":4,
+        "id":7,
         "title": "DOÑA JOVITA",
         "description": "DOMINGO 15 DE DICIEMBRE 21:30HS-EN CONCIERTO QUITA PENAS - ACTUACION DE CARLOS SANCHEZ Y LOS PRIMOS - SALA CLARA CHUTUN TEATRO SAN FRANCISCO",
         "image": [
